@@ -6,6 +6,7 @@
   "packages": {
     ".": {
       "extra-files": [
+        "manifest.json",
         "notes/VERSION.md"
       ]
     }

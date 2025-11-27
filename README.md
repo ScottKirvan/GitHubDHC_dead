@@ -37,10 +37,14 @@ I do a lot of writing in Markdown, mostly for things that I'm doing up on [GitHu
 
 It was close, but not really the way *my* GitHub looks (I use the GitHub Dark High Contrast theme when I'm working online), so I decided to start hacking the css a bit to see how close I could get.  The look of GitHubDHC is different enough from the original theme that I decided to start a new fork based on Vladimir's really nicely done Obsidian GitHub Theme -- it's worth checking out - he did all the initial work and the Kanban theme'ing - it's really good.  
 
-I'm not a css creator and I'm sure I've used some poor practices and there's probably some bugs in here (editing modes can get funky!) - but enjoy - I've been using it a ton lately and I'm really finding it difficult going back to the more normal Obsidian themes now.  I started with Vladimir's css, comparing it to GitHub's own DHC css (`ctrl-shift-i`), and have relied on several other themes to help me understand how themes work in obsidian.
+### Features (v2.0)
 
-This theme DOES NOT support Obsidian's light color scheme, and I'm not sure if any of the Vladimir's original colorblind colorschemes are still working or not.  I welcome the help from anyone that wants to work on this stuff, plus, GitHub uses a lot of fun style tricks in their page rendering that would be cool to see implemented.
-
+- **Dual Theme Support**: Full support for both Dark High Contrast and Light Default themes
+- **Accurate GitHub Colors**: Uses official GitHub Primer color primitives for authentic appearance
+- **Enhanced UI Components** (for settings dialog, Obsidian UI, etc.):
+    - Form elements (dropdowns, inputs) now match GitHub styling
+- **GitHub-Style Callouts**
+- **Improved Typography**: Bold navigation items and better text hierarchy
 ## Screenshots
 
 <details><summary> Screenshots </summary>
@@ -97,3 +101,5 @@ All rights reserved
 
 Project Link:  <https://github.com/ScottKirvan/GitHubDHC>  
 If you're writing markdown, and not using *Obsidian*, check it out:  <https://obsidian.md/>  
+
+
